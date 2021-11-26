@@ -1,0 +1,13 @@
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\bin\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.exe
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\bin\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.deps.json
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\bin\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.runtimeconfig.json
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\bin\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.runtimeconfig.dev.json
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\bin\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.dll
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\bin\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.pdb
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\obj\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\obj\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\obj\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.AssemblyInfo.cs
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\obj\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\obj\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.dll
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\obj\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.pdb
+D:\VisualStudioProjetos\Propriedades e operações com TimeSpan\Propriedades e operações com TimeSpan\obj\Debug\netcoreapp3.1\Propriedades e operações com TimeSpan.genruntimeconfig.cache
